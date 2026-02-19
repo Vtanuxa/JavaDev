@@ -1,0 +1,59 @@
+.logo {
+    background-color: red;
+}
+
+.list {
+    display: flex;
+    margin-right: 50px;
+    list-style: none;
+    gap: 20px;
+    font-weight: bold;
+}
+
+.list a {
+    text-decoration: none;
+    color: rgb(227, 15, 15);
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+
+}
+
+.container-left {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+
+.container-right {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.icon {
+    width: 20px;
+
+}
+
+.train {
+    width: 100%;
+}
+
+.button-exit {
+    color: white;
+    background-color: #eb5353;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 13px;
+
+}
