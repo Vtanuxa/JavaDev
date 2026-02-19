@@ -1,5 +1,6 @@
 .logo {
     background-color: red;
+    width: 100px;
 }
 
 .list {
@@ -41,7 +42,6 @@
 
 .icon {
     width: 20px;
-
 }
 
 .train {
